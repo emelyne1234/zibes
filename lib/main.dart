@@ -5,7 +5,6 @@ import 'package:myapp/utils.dart';
 //import 'package:myapp/the-pages/sign-up.dart';
 //import 'package:myapp/the-pages/home.dart';
 //import 'package:myapp/the-pages/detail.dart';
-
 import 'package:myapp/the-pages/profile.dart';
 
 void main() => runApp(const MyApp());
